@@ -1,5 +1,5 @@
 # Hello there; welcome 👋🏾
-[![Linkedin Badge](https://img.shields.io/badge/clinton-mekwunye-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clinton-mekwunye/)](https://www.linkedin.com/in/clinton-mekwunye/) [![Twitter Badge](https://img.shields.io/badge/-@mekwunyeclinton-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mekwunyeclinton)](https://twitter.com/mekwunyeclinton)
+[![Linkedin Badge](https://img.shields.io/badge/clintonmekwunye-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clinton-mekwunye/)](https://www.linkedin.com/in/clinton-mekwunye/) [![Twitter Badge](https://img.shields.io/badge/-@mekwunyeclinton-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mekwunyeclinton)](https://twitter.com/mekwunyeclinton)
 
 I'm a Software Engineer who builds backend services with flask. I currently freelance on upwork and Fiver. I'm passionate about sharing knowledge, documentation, web engineering and others. I create Flask restAPIs on fiver, work on python based software program on upwork, build useful [open-source projects](https://github.com/clintonMF)...
 
